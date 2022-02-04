@@ -1,0 +1,205 @@
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe.config
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.pdb
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.AssemblyReference.cache
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\MainWindow.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\App.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.cache
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.lref
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\MainWindow.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.g.resources
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.Properties.Resources.resources
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.GenerateResource.cache
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.CoreCompileInputs.cache
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.exe
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.pdb
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\LogIn.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\SignUp.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\LogIn.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\SignUp.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Address\CreateAddress.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Address\CreateAddress.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.baml
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Address\CreateAddressCoach.g.cs
+C:\Users\Dovla Win\Desktop\Prrojekti\ProjekatPlatforme\ProjekatPlatforme\obj\Debug\Address\CreateAddressCoach.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe.config
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.pdb
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.AssemblyReference.cache
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\LogIn.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\MainWindow.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\SignUp.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\App.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.cache
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.lref
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\LogIn.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\MainWindow.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\SignUp.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.g.resources
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.Properties.Resources.resources
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.GenerateResource.cache
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.CoreCompileInputs.cache
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.exe
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.pdb
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.baml
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.g.cs
+C:\Users\Dovla Win\Desktop\app\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe.config
+C:\Projekti\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe
+C:\Projekti\projectPlatforms\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.pdb
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.AssemblyReference.cache
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.SuggestedBindingRedirects.cache
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\LogIn.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\MainWindow.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\SignUp.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\App.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.cache
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.lref
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\LogIn.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\MainWindow.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\SignUp.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.g.resources
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.Properties.Resources.resources
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.GenerateResource.cache
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.CoreCompileInputs.cache
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.exe
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.pdb
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminData.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Administrator\AdminData.baml
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerEditWindow.g.cs
+C:\Projekti\projectPlatforms\ProjekatPlatforme\obj\Debug\Beginner\BeginnerEditWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe.config
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.exe
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\bin\Debug\ProjekatPlatforme.pdb
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.AssemblyReference.cache
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.SuggestedBindingRedirects.cache
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\AdminData.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BeginnerEditWindow.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\LogIn.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\MainWindow.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\SignUp.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\App.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.cache
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme_MarkupCompile.lref
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\AdminData.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\AdminMenu.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\BeginnerReview.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\CoachReview.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\TrainingReview.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\AddBeginner.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BegginerMenu.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BeginnerAccountData.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\BeginnerEditWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachAccountData.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachAddWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachEditWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachMenu.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\CoachReviewWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\FitnessCenter\FitnessCenterReview.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\LogIn.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\MainWindow.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\SignUp.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.g.resources
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.Properties.Resources.resources
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.GenerateResource.cache
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.csproj.CoreCompileInputs.cache
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.exe
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\ProjekatPlatforme.pdb
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\AddTrainingAdmin.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\AddTrainingAdmin.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\EditTrainingAdmin.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\EditTrainingAdmin.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\ReviewTrainingCoach.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\ReviewTrainingCoach.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\AddTrainingCoach.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\AddTrainingCoach.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\ReviewBeginnerCoach.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Beginner\ReviewBeginnerCoach.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\ReviewTrainingBeginner.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Training\ReviewTrainingBeginner.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\SearchCoachUnReg.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Coach\SearchCoachUnReg.baml
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\SearchUsers.g.cs
+C:\Projekti\SR-33-2020-POP-2021\ProjekatPlatforme\obj\Debug\Administrator\SearchUsers.baml

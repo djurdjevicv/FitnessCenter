@@ -1,0 +1,49 @@
+﻿<Window x:Class="ProjekatPlatforme.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProjekatPlatforme"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Title="Login" Height="640" Width="770" >
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+            <ColumnDefinition Width="110"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Label FontSize="35" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="7" HorizontalAlignment="Center" FontWeight="Bold">
+            Welcome to the OWL fitness center
+        </Label>
+        <Button FontSize="32" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="15" FontWeight="Bold" Width="320" Click="LogIn" ClickMode="Press" >
+            LogIn
+        </Button>
+        <Button FontSize="32" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="15" FontWeight="Bold" Width="320" Click="SignUp" ClickMode="Press">
+            SignUp
+        </Button>
+        <Button FontSize="32" Grid.Column="1" Grid.Row="4" Grid.ColumnSpan="3" Margin ="5,10,60,10" FontWeight="Bold" Click="AboutUsBtn" ClickMode="Press">
+            About as
+        </Button>
+        <Button FontSize="32" Grid.Column="3" Grid.Row="4" Grid.ColumnSpan="3"  Margin ="60,10,5,10" FontWeight="Bold" Click="AboutCoachBtn" ClickMode="Press">
+            About coachs
+        </Button>
+        <Button FontSize="32" Grid.Column="1" Grid.Row="5" Grid.ColumnSpan="5" HorizontalAlignment="Center" Margin="15" FontWeight="Bold" Width="320" Click="ButtonExit">
+            Exit
+        </Button>
+    </Grid>
+</Window>
